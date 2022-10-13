@@ -4,7 +4,7 @@ import java.util.Scanner;
 // https://www.acmicpc.net/problem/25304
 
 import java.util.Scanner;
-public class B5_25304 {
+public class Main {
 	public static void main(String args[]) {
 		Scanner scanner = new Scanner(System.in);
 		int X = scanner.nextInt();
